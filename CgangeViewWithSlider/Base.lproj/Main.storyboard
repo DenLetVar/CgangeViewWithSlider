@@ -73,21 +73,21 @@
                                                 <rect key="frame" x="-2" y="0.0" width="291.33333333333331" height="31"/>
                                                 <color key="minimumTrackTintColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <connections>
-                                                    <action selector="changeColor" destination="BYZ-38-t0r" eventType="valueChanged" id="Key-NT-hWM"/>
+                                                    <action selector="changeColor:" destination="BYZ-38-t0r" eventType="valueChanged" id="seC-bT-748"/>
                                                 </connections>
                                             </slider>
                                             <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="2p3-Gz-mWI">
                                                 <rect key="frame" x="-2" y="54" width="291.33333333333331" height="31"/>
                                                 <color key="minimumTrackTintColor" red="0.0057914410717785358" green="0.9893762469291687" blue="0.093479372560977936" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <connections>
-                                                    <action selector="changeColor" destination="BYZ-38-t0r" eventType="valueChanged" id="07w-FS-rLI"/>
+                                                    <action selector="changeColor:" destination="BYZ-38-t0r" eventType="valueChanged" id="8br-nB-a03"/>
                                                 </connections>
                                             </slider>
                                             <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="fvX-Ik-MNO">
                                                 <rect key="frame" x="-2" y="108" width="291.33333333333331" height="31"/>
                                                 <color key="minimumTrackTintColor" systemColor="systemBlueColor"/>
                                                 <connections>
-                                                    <action selector="changeColor" destination="BYZ-38-t0r" eventType="valueChanged" id="j5E-PK-qTb"/>
+                                                    <action selector="changeColor:" destination="BYZ-38-t0r" eventType="valueChanged" id="vsQ-9i-10l"/>
                                                 </connections>
                                             </slider>
                                         </subviews>
